@@ -69,6 +69,6 @@ const ImageBlock = ({ onRemove }) => {
       )}
     </Rnd>
   );
-};
+}; 
 
 export default ImageBlock;

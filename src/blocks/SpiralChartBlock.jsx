@@ -45,7 +45,7 @@ const SpiralChartBlock = ({ onRemove }) => {
       x: rect.left + rect.width / 2,
       y: rect.top - 10,
     });
-  };
+  };   
 
   const handleMouseLeave = () => {
     setTooltip({ ...tooltip, visible: false });

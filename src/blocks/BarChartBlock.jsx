@@ -83,9 +83,9 @@ const BarChartBlock = ({ onRemove }) => {
             <Bar dataKey="pv" fill="#a78bfa" radius={[4, 4, 0, 0]} />
             <Bar dataKey="uv" fill="#6ee7b7" radius={[4, 4, 0, 0]} />
           </BarChart>
-        </ResponsiveContainer>
-      </div>
-    </Rnd>
+         </ResponsiveContainer>
+      </div> 
+    </Rnd> 
   );
 };
 

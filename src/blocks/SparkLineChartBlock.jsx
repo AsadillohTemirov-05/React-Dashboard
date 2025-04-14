@@ -105,6 +105,7 @@ const SparkLineChartBlock = ({ onRemove }) => {
       </ResponsiveContainer>
     </Rnd>
   );
-};
+};   
+     
 
 export default SparkLineChartBlock;

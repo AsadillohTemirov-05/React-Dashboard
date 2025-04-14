@@ -89,5 +89,6 @@ const LineChartBlock = ({ onRemove }) => {
     </Rnd>
   );
 };
+   
 
 export default LineChartBlock;
